@@ -4,7 +4,7 @@ This is a modified version of the [Prototype Textures](https://www.kenney.nl/ass
 ## How to use the render script
 Run the script with `python render.py`. You can change the values in the `CONFIGURATION` section to add custom colors or use Kenneys original palette and to change the output path.
 
-If you want to use custom colors you need to set the `custom_color` variable to `True`. You can define custom colors using between the two square brackets like this:
+If you want to use custom colors you need to set the `custom_color` variable to `True`. You can define custom colors between the two square brackets like this:
 
 ```python
 custom_colors = [
