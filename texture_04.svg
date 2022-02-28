@@ -1,86 +1,14 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   version="1.1"
-   id="svg22"
-   sodipodi:docname="texture_04.svg"
-   width="1024"
-   height="1024"
-   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
-  <sodipodi:namedview
-     id="namedview24"
-     pagecolor="#505050"
-     bordercolor="#eeeeee"
-     borderopacity="1"
-     inkscape:pageshadow="0"
-     inkscape:pageopacity="0"
-     inkscape:pagecheckerboard="0"
-     showgrid="false"
-     inkscape:zoom="0.35591041"
-     inkscape:cx="452.36103"
-     inkscape:cy="658.87367"
-     inkscape:window-width="1440"
-     inkscape:window-height="831"
-     inkscape:window-x="1280"
-     inkscape:window-y="32"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="g20" />
-  <defs
-     id="defs2" />
-  <g
-     id="g20">
-    <path
-       stroke="none"
-       fill="#ffffff"
-       fill-opacity="0.101961"
-       d="m 257,1024 h -1 V 897 H 129 v 127 h -1 V 897 H 0 v -1 H 128 V 769 H 0 v -1 H 128 V 641 H 0 v -1 H 128 V 513 H 0 v -1 H 128 V 385 H 0 v -1 H 128 V 257 H 0 v -1 H 128 V 129 H 0 v -1 H 128 V 0 h 1 V 128 H 256 V 0 h 1 V 128 H 384 V 0 h 1 V 128 H 512 V 0 h 1 V 128 H 640 V 0 h 1 V 128 H 768 V 0 h 1 V 128 H 896 V 0 h 1 v 128 h 127 v 1 H 897 v 127 h 127 v 1 H 897 v 127 h 127 v 1 H 897 v 127 h 127 v 1 H 897 v 127 h 127 v 1 H 897 v 127 h 127 v 1 H 897 v 127 h 127 v 1 H 897 v 127 h -1 V 897 H 769 v 127 h -1 V 897 H 641 v 127 h -1 V 897 H 513 v 127 h -1 V 897 H 385 v 127 h -1 V 897 H 257 v 127 M 769,257 V 384 H 896 V 257 H 769 m -1,0 H 641 V 384 H 768 V 257 m 1,-1 H 896 V 129 H 769 v 127 m 0,256 H 896 V 385 H 769 V 512 M 768,256 V 129 H 641 v 127 h 127 m 1,512 H 896 V 641 H 769 v 127 m -1,0 V 641 H 641 v 127 h 127 m 1,1 V 896 H 896 V 769 H 769 M 896,513 H 769 V 640 H 896 V 513 m -255,0 V 640 H 768 V 513 H 641 m 0,-1 H 768 V 385 H 641 V 512 M 513,256 H 640 V 129 H 513 V 256 M 384,384 V 257 H 257 V 384 H 384 M 512,257 H 385 V 384 H 512 V 257 m 1,0 V 384 H 640 V 257 H 513 m 0,255 H 640 V 385 H 513 V 512 M 384,129 H 257 V 256 H 384 V 129 M 512,256 V 129 H 385 v 127 h 127 m 0,256 V 385 H 385 V 512 H 512 M 256,257 H 129 V 384 H 256 V 257 M 129,129 V 256 H 256 V 129 H 129 M 256,512 V 385 H 129 v 127 h 127 m 0,256 V 641 H 129 v 127 h 127 m 1,0 H 384 V 641 H 257 v 127 m -1,1 H 129 V 896 H 256 V 769 M 129,513 V 640 H 256 V 513 H 129 m 255,0 H 257 V 640 H 384 V 513 m 256,0 H 513 V 640 H 640 V 513 M 512,768 V 641 H 385 v 127 h 127 m 1,0 H 640 V 641 H 513 v 127 m 0,1 V 896 H 640 V 769 H 513 m -1,0 H 385 V 896 H 512 V 769 M 385,513 V 640 H 512 V 513 H 385 M 257,769 V 896 H 384 V 769 H 257 m 0,-257 H 384 V 385 H 257 V 512 M 768,769 H 641 V 896 H 768 V 769"
-       id="path6" />
-    <path
-       stroke="none"
-       fill="#ffffff"
-       d="M 2,2 V 1022 H 1022 V 2 H 2 M 0,0 H 1024 V 1024 H 0 V 0"
-       id="path8" />
-    <path
-       stroke="none"
-       fill="#ffffff"
-       fill-opacity="0.4"
-       d="M 257,256 H 768 V 0 h 1 v 256 h 255 v 1 H 769 v 511 h 255 v 1 H 769 v 255 h -1 V 769 H 257 v 255 h -1 V 769 H 0 v -1 H 256 V 257 H 0 v -1 H 256 V 0 h 1 v 256 m 511,1 H 257 V 768 H 768 V 257"
-       id="path10" />
-    <path
-       stroke="none"
-       fill="#ffffff"
-       fill-opacity="0.4"
-       d="m 513,511 h 511 v 2 h -20.1 v 0.05 h -1.05 -0.4 -0.45 L 513,513 v 511 h -2 V 1010.95 513 H 6.95 6.45 6.05 0 v -2 h 511 v -1.1 -0.35 -0.5 V 8.5 0 h 2 v 511"
-       id="path12" />
-    <path
-       fill="none"
-       stroke="#ffffff"
-       stroke-width="0.05"
-       stroke-linecap="butt"
-       stroke-linejoin="miter"
-       stroke-miterlimit="3"
-       d="M 1023.85,0 768,255.95 m 255.95,256 -255.95,256 M 0.1,0 256,255.95 m -255.95,256 255.95,256"
-       id="path14" />
-    <path
-       fill="none"
-       stroke="#ffffff"
-       stroke-width="0.05"
-       stroke-linecap="round"
-       stroke-linejoin="miter"
-       stroke-miterlimit="3"
-       d="M 256,767.95 0,1024 m 768,-768.05 255.95,256 M 768,767.95 1024,1024 M 256,255.95 511.85,0 M 256,255.95 0.05,511.95 M 512.1,0 768,255.95"
-       id="path16" />
-    <path
-       fill="none"
-       stroke="#ffffff"
-       stroke-width="0.05"
-       stroke-linecap="round"
-       stroke-linejoin="miter"
-       stroke-miterlimit="3"
-       d="M 768,255.95 512.05,511.95 512,512 511.95,511.95 256,255.95 m 0,512 255.95,-256 M 256,767.95 512,1024 768,767.95 512.05,511.95"
-       id="path18" />
-  </g>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1024" height="1024" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <g fill="#fff">
+  <path d="m257 1024h-1v-127h-127v127h-1v-127h-128v-1h128v-127h-128v-1h128v-127h-128v-1h128v-127h-128v-1h128v-127h-128v-1h128v-127h-128v-1h128v-127h-128v-1h128v-128h1v128h127v-128h1v128h127v-128h1v128h127v-128h1v128h127v-128h1v128h127v-128h1v128h127v-128h1v128h127v1h-127v127h127v1h-127v127h127v1h-127v127h127v1h-127v127h127v1h-127v127h127v1h-127v127h127v1h-127v127h-1v-127h-127v127h-1v-127h-127v127h-1v-127h-127v127h-1v-127h-127v127h-1v-127h-127v127m512-767v127h127v-127h-127m-1 0h-127v127h127v-127m1-1h127v-127h-127v127m0 256h127v-127h-127v127m-1-256v-127h-127v127h127m1 512h127v-127h-127v127m-1 0v-127h-127v127h127m1 1v127h127v-127h-127m127-256h-127v127h127v-127m-255 0v127h127v-127h-127m0-1h127v-127h-127v127m-128-256h127v-127h-127v127m-129 128v-127h-127v127h127m128-127h-127v127h127v-127m1 0v127h127v-127h-127m0 255h127v-127h-127v127m-129-383h-127v127h127v-127m128 127v-127h-127v127h127m0 256v-127h-127v127h127m-256-255h-127v127h127v-127m-127-128v127h127v-127h-127m127 383v-127h-127v127h127m0 256v-127h-127v127h127m1 0h127v-127h-127v127m-1 1h-127v127h127v-127m-127-256v127h127v-127h-127m255 0h-127v127h127v-127m256 0h-127v127h127v-127m-128 255v-127h-127v127h127m1 0h127v-127h-127v127m0 1v127h127v-127h-127m-1 0h-127v127h127v-127m-127-256v127h127v-127h-127m-128 256v127h127v-127h-127m0-257h127v-127h-127v127m511 257h-127v127h127v-127" fill-opacity=".10196"/>
+  <path d="m2 2v1020h1020v-1020h-1020m-2-2h1024v1024h-1024v-1024"/>
+  <path d="m257 256h511v-256h1v256h255v1h-255v511h255v1h-255v255h-1v-255h-511v255h-1v-255h-256v-1h256v-511h-256v-1h256v-256h1v256m511 1h-511v511h511v-511" fill-opacity=".4"/>
+  <path d="m513 511h511v2h-20.1v0.05h-1.9l-489-0.05v511h-2v-511h-511v-2h511v-511h2v511" fill-opacity=".4"/>
+ </g>
+ <g fill="none" stroke="#fff" stroke-miterlimit="3" stroke-width=".05">
+  <path d="M 1023.85,0 768,255.95 m 255.95,256 -255.95,256 M 0.1,0 256,255.95 m -255.95,256 255.95,256"/>
+  <path d="M 256,767.95 0,1024 m 768,-768.05 255.95,256 M 768,767.95 1024,1024 M 256,255.95 511.85,0 M 256,255.95 0.05,511.95 M 512.1,0 768,255.95" stroke-linecap="round"/>
+  <path d="m768 255.95-255.95 256-0.05 0.05-0.05-0.05-255.95-256m0 512 255.95-256m-255.95 256 256 256.05 256-256.05-255.95-256" stroke-linecap="round"/>
+ </g>
 </svg>
